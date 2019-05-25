@@ -1,5 +1,6 @@
 void testfunction() {
 	printf("testtest");
+        int a=10;
 
 	//‚ ‚ ‚ 
 
